@@ -187,6 +187,8 @@ z-index:1000;
 .about .image img{
   width: 100%;
   border-radius: 300px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+  border: 3px solid  rgb(249, 179, 50);
 }
 
 .about .content{
@@ -234,7 +236,7 @@ section h2{
   border: 3px solid rgb(255, 255, 255);
   padding: 10px;
   box-shadow: var(--box-shadow);
-  
+  border-radius: 40px;
   background-color: rgb(249, 179, 50);
 
 }
